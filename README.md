@@ -12,7 +12,13 @@ A beginner-friendly static perfume shop homepage created using HTML and CSS.
 
  📁 Folder Structure
 
-<pre> ``` Perfumy/ ├── images/ │ ├── one.jpg │ ├── two.jpg │ └── three.jpg ├── index.html └── style.css ``` </pre>
+<pre> ``` Perfumy/ 
+            ├── images/ │ 
+                  ├── one.jpg │ 
+                  ├── two.jpg 
+                  │ └── three.jpg 
+            ├── index.html  
+            └── style.css ``` </pre>
 
  🛠️ Technologies Used
 
